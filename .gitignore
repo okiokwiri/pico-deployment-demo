@@ -1,0 +1,14 @@
+# Compiled objects
+*.slo
+*.lo
+*.o
+*.obj
+
+# Executables
+*.uf2
+*.elf
+*.hex
+*.bin
+*.app
+*.out
+*.exe
